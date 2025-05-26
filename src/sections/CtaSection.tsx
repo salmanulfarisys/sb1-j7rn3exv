@@ -20,6 +20,16 @@ const CtaSection: React.FC = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
+
+<a
+  href="https://www.zoho.com"  // Replace with your actual scheduling URL
+  target="_blank"
+  rel="noopener noreferrer"
+>
+{/*   <Button 
+    size="lg" 
+    className="bg-white text-primary hover:bg-white/90 group"
+  > */}
             <Button 
               size="lg" 
               className="bg-white text-primary hover:bg-white/90 group"
