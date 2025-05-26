@@ -47,7 +47,7 @@ const ContactSection: React.FC = () => {
       });
     } catch (error) {
       console.error('Webhook Error:', error);
-      alert('Submission failed. Please try again.');
+      alert('Uhh No..Submission failed. Please try again.');
     }
   };
   
@@ -73,7 +73,7 @@ const ContactSection: React.FC = () => {
                 </div>
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold text-gray-900">Email Us</h3>
-                  <p className="text-gray-600">hello@flowvice.com</p>
+                  <p className="text-gray-600">hello@flowvice.xyz</p>
                 </div>
               </div>
               
@@ -85,7 +85,7 @@ const ContactSection: React.FC = () => {
                 </div>
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold text-gray-900">Call Us</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+91 7907411694</p>
                 </div>
               </div>
               
